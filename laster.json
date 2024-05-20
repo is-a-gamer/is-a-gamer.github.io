@@ -1,6 +1,6 @@
 {
-  "version": "0.0.4",
-  "url": "https://github.com/is-a-gamer/rice_tool_tauri/releases/download/0.0.4/rice_tools_tauri_0.0.4_x64_en-US.msi.zip",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblpxR2JudG85VEI3U0dVSEdsc1lHRTlRMXZDa0J6enVhVzZ5WGNYeVE1dXo4TnlFemhKb0xKRTcxSEZrSVI0L21OZVZ5WlJ4RzFUb1FpWVFFekR2MlJ3SmxxQXFoa2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1NzEyNjI1CWZpbGU6cmljZV90b29sc190YXVyaV8wLjAuNF94NjRfZW4tVVMubXNpLnppcApIK0ZXUk13c0prRE5EQXRzOVdaTlRUWE44Y1R1MGwwZEc0OStpalQrc2QxVzNJZ0kyMmpuVTZ5VHFuK2tqbFZ3M3hSbEZvVnZwTlB1VFNKU21KWkdEdz09Cg==",
-  "notes": "优化局域网安装逻辑,功能无实际影响"
+  "version": "0.0.5",
+  "url": "https://github.com/is-a-gamer/rice_tool_tauri/releases/download/0.0.5/rice_tools_tauri_0.0.5_x64_en-US.msi.zip",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTblpxR2JudG85VEdCQ3VZbXYyR2FlRWRtZ1ZqY3o5U2F0eXpXNmtFVXI2RmlyVWEyQWh3NDUrOTNyNGZIcWZsOVJzTFdqQ2hUeUxKVjJFbUtFT3g0MUVydm5aY1NlK3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE2MTc1MDY2CWZpbGU6cmljZV90b29sc190YXVyaV8wLjAuNV94NjRfZW4tVVMubXNpLnppcAo5VytMSTdwTS9HYjhUVGxVT1VRN3B3SkNFdndQNFRKU3hxenFWN3l3MWJOaFlra001aHdqam9SR3NMUFg2aXZLMXFUczZCeVlQZlpyU0N6U1k0NGVCQT09Cg==",
+  "notes": "添加局域网配置查看,暂不支持修改"
 }
